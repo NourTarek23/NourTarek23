@@ -37,16 +37,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek23&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek23&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NourTarek23&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="most used languages" />
-<br>
-
-<a href="https://komarev.com/ghpvc/?username=NourTarek23&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=NourTarek23&style=for-the-badge">
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake.svg" />
-</picture>
