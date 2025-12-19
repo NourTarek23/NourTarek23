@@ -19,7 +19,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/nour-tarek-18a637208" target="_blank"><img src="https://img.shields.io/badge/Nour%20Tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Nour_Tarek_Nour" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Nour_Tarek/" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
 <a href="https://www.facebook.com/nour.tarek.73113528/" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/nourtarek202" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek202-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
@@ -35,18 +35,18 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek2023&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek2023&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek23&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek23&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NourTarek2023&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NourTarek23&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="most used languages" />
 <br>
 
-<a href="https://komarev.com/ghpvc/?username=NourTarek2023&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=NourTarek2023&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=NourTarek23&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=NourTarek23&style=for-the-badge">
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NourTarek2023/NourTarek2023/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NourTarek2023/NourTarek2023/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NourTarek2023/NourTarek2023/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NourTarek23/NourTarek23/output/github-snake.svg" />
 </picture>
