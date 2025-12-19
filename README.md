@@ -29,8 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek23&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek23&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
-
----
-[![](https://visitcount.itsvg.in/api?id=NourTarek23&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
