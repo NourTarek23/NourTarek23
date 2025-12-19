@@ -12,28 +12,25 @@
 </p> 
 
 - 🏢 I'm a Backend developer and Competitive programmer
-- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
+- 👨‍💻 learning to be a .NET Developer.
 
-
-
-### Connect with Me :
+### 🌐 Socials :
 
 <a href="https://linkedin.com/in/nour-tarek-18a637208" target="_blank"><img src="https://img.shields.io/badge/Nour%20Tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Nour_Tarek/" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
 <a href="https://www.facebook.com/nour.tarek.73113528/" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/nourtarek202" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Tarek202-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-### 🛠 &nbsp;Tech Stack
-
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NourTarek23&show_icons=true&bg_color=00000000&hide_border=true" alt="" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NourTarek23&theme=transparent&hide_border=true&card_height=170" alt="" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=NourTarek23&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
